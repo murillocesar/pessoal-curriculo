@@ -1,0 +1,81 @@
+html{
+    background-color: gray;
+    border: 25px solid red;
+    /* background-image: url(assets\plano-de-fundo.jpg); */
+}
+.conteudo a img{
+    width: 100px;
+}
+li{
+    margin: auto;
+    width: 100%;
+    border: 3px;
+    padding: 10px;
+    box-sizing: content-box;
+    display: flex;
+    text-align: start;
+}
+hr{
+    background-color: red;
+}
+body{
+    display: block;
+    margin: 8px;
+}
+ol {
+    display: block;
+    list-style-type: decimal;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+hr{
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.linha2{
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+h6 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+label{
+    display: inline;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: start;
+}
+.linha12{
+    display: block;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
